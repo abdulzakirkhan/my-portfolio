@@ -23,9 +23,9 @@ Here's a list of live versions of the template:
 
 | #     | Version             | Description                                             | URL                                                                     |
 |-------|---------------------|---------------------------------------------------------|-------------------------------------------------------------------------|
-| 🟢    | Mark Choi (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://abduklzakirkhan.github.io/my-portfolio-/)     |
-| 🟣    | Emily Park          | An example of how the template can be customized.       | [Preview](https://abduklzakirkhan.github.io/my-portfolio-/)    |
-| 🔵    | Michael Özkan       | Another example of how the template can be customized.  | [Preview](https://abduklzakirkhan.github.io/my-portfolio-/) |
+| 🟢    | Abdul Zakir (default) | Latest deployment of the template here on GitHub pages. | [Preview](https://abduklzakirkhan.github.io/my-portfolio-/)     |
+| 🟣    | Abdul Zakir          | An example of how the template can be customized.       | [Preview](https://abduklzakirkhan.github.io/my-portfolio-/)    |
+| 🔵    | Abdul Zakir       | Another example of how the template can be customized.  | [Preview](https://abduklzakirkhan.github.io/my-portfolio-/) |
 
 ## Layout and concept
 
@@ -62,7 +62,7 @@ npm run dev
 ```
 ## About
 
-This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
+This template was created by and is maintained by **[Abdul Zakir](https://abdulzakirkhan.com/)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 
