@@ -1,5 +1,5 @@
 {
-    "name": "Mark Choi",
+    "name": "Abdul Zakir",
 
     "profilePictureUrl": "images/pictures/profile-picture.jpg",
     "resumePdfUrl": "",
@@ -10,8 +10,8 @@
 
     "locales": {
         "en": {
-            "localized_name": "Mark Choi",
-            "localized_name_stylized": " [[Mark {{Choi}}]]",
+            "localized_name": "Abdul Zakir",
+            "localized_name_stylized": " [[Abdul {{Zakir}}]]",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
                 "Backend Developer",
@@ -19,7 +19,7 @@
                 "DevOps Engineer",
                 "UX Designer"
             ],
-            "name_pronunciation_ipa": "/mark chwe/",
+            "name_pronunciation_ipa": "/abdul zakir/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         },
         "es": {

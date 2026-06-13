@@ -98,7 +98,7 @@
                     "id":2,
                     "faIcon": "fa-solid fa-envelope",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "mark.choi@email.com",
+                    "label": "abdulzakir632@gmail.com",
                     "link": {"href": "mailto:mark.choi@email.com", "tooltipString": "email_me"},
                     "copyToClipboardButton": true,
                     "locales": {
@@ -122,8 +122,8 @@
                     "id": 4,
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "Mark Choi",
-                    "link": {"href": "https://facebook.com/profiles/mark.choi.855/default", "tooltipString": "open_website"},
+                    "label": "Abdul Zakir",
+                    "link": {"href": "https://facebook.com/profiles/default", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {"title": "Facebook"},
