@@ -9,43 +9,43 @@
         "en": {
             "localized_name": "Abdul Zakir",
             "localized_name_stylized": " [[Abdul {{Zakir}}]]",
-            "status_message_available_for_freelance": "Available for freelance and consulting opportunities.",
+            "status_message_available_for_freelance": "Available for frontend and full-stack opportunities.",
             "roles": [
-                "Cloud Security Engineer",
-                "Full Stack JavaScript Developer",
-                "Platform Engineer",
-                "Software Architect"
+                "Frontend Developer",
+                "React.js Specialist",
+                "Next.js Engineer",
+                "Deployment-focused Engineer"
             ],
             "name_pronunciation_ipa": "/abdul zakir/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         },
         "es": {
-            "status_message_available_for_freelance": "Disponible para oportunidades de freelance y consultoría.",
+            "status_message_available_for_freelance": "Disponible para oportunidades frontend y full-stack.",
             "roles": [
-                "Ingeniero de Seguridad en la Nube",
-                "Desarrollador Full Stack JavaScript",
-                "Ingeniero de Plataforma",
-                "Arquitecto de Software"
+                "Desarrollador Frontend",
+                "Especialista en React.js",
+                "Ingeniero Next.js",
+                "Ingeniero enfocado en despliegues"
             ]
         },
         "fr": {
-            "status_message_available_for_freelance": "Disponible pour des opportunités freelance et de conseil.",
+            "status_message_available_for_freelance": "Disponible pour des opportunités frontend et full-stack.",
             "roles": [
-                "Ingénieur en Sécurité Cloud",
-                "Développeur Full Stack JavaScript",
-                "Ingénieur de Plateforme",
-                "Architecte Logiciel"
+                "Développeur Frontend",
+                "Spécialiste React.js",
+                "Ingénieur Next.js",
+                "Ingénieur orienté déploiement"
             ]
         },
         "ko": {
             "localized_name": "압둘 자키르",
             "localized_name_stylized": " [[압둘 {{자키르}}]]",
-            "status_message_available_for_freelance": "프리랜스 및 컨설팅 기회에 참여 가능합니다.",
+            "status_message_available_for_freelance": "프론트엔드 및 풀스택 기회에 참여 가능합니다.",
             "roles": [
-                "클라우드 보안 엔지니어",
-                "풀 스택 자바스크립트 개발자",
-                "플랫폼 엔지니어",
-                "소프트웨어 아키텍트"
+                "프론트엔드 개발자",
+                "React.js 전문가",
+                "Next.js 엔지니어",
+                "배포 중심 엔지니어"
             ],
             "name_pronunciation_ipa": "/apdul jakiru/",
             "name_pronunciation_audio_url": "audio/korean-name-pronunciation.mp3"

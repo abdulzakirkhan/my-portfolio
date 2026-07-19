@@ -72,13 +72,13 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Enterprise Healthcare Platform",
-                            "text": "A secure, scalable healthcare platform built with <b>React.js</b>, <b>Next.js</b>, <b>Redux Toolkit</b>, <b>RTK Query</b>, and <b>Node.js</b> for modern digital operations.",
+                            "title": "Internal Product Portal",
+                            "text": "Delivered a scalable internal product experience for cross-functional teams with reusable React components and production-ready workflows.",
                             "tags": [
                                 "React.js",
                                 "Next.js",
-                                "Node.js",
-                                "Security"
+                                "UX",
+                                "Product Delivery"
                             ]
                         }
                     }
@@ -106,13 +106,13 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Modern Analytics Dashboard",
-                            "text": "A polished analytics experience built with <b>React</b>, <b>Tailwind CSS</b>, interactive charts, and <b>REST APIs</b> for data-rich workflows.",
+                            "title": "Analytics Dashboard",
+                            "text": "Built a polished dashboard experience with efficient state management, API integration, and responsive UI patterns.",
                             "tags": [
-                                "React",
-                                "Tailwind CSS",
-                                "Charts",
-                                "REST APIs"
+                                "React.js",
+                                "Redux Toolkit",
+                                "REST APIs",
+                                "UI"
                             ]
                         }
                     }
@@ -140,12 +140,13 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Cloud Native Deployment",
-                            "text": "A production-oriented deployment solution using <b>Docker</b>, <b>Kubernetes</b>, and <b>CI/CD</b> to streamline delivery and scalability.",
+                            "title": "Deployment Automation Platform",
+                            "text": "Contributed to deployment workflows and automation pipelines supporting modern containerized releases.",
                             "tags": [
+                                "GitLab CI/CD",
                                 "Docker",
                                 "Kubernetes",
-                                "CI/CD"
+                                "Linux"
                             ]
                         }
                     }
