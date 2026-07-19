@@ -1,0 +1,156 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Featured work",
+                "title_long": "My {{Projects}}"
+            },
+            "es": {
+                "title_short": "Portafolio",
+                "title_short_nav": "Portafolio",
+                "title_long_prefix": "Trabajo destacado",
+                "title_long": "Mis {{Proyectos}}"
+            },
+            "fr": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Projets phares",
+                "title_long": "Mes {{Projets}}"
+            },
+            "ko": {
+                "title_short": "포트폴리오",
+                "title_short_nav": "포트폴리오",
+                "title_long_prefix": "대표 작업",
+                "title_long": "내 {{프로젝트}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_utilities": "Platform"
+                }
+            },
+            "settings": {
+                "categorize_by": [
+                    "category_apps",
+                    "category_web",
+                    "category_utilities"
+                ],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-hospital",
+                    "faIconColors": {
+                        "bg": "#2563EB",
+                        "fill": "#F8FAFC"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/abdulzakirkhan",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Enterprise Healthcare Platform",
+                            "text": "A secure, scalable healthcare platform built with <b>React.js</b>, <b>Next.js</b>, <b>Redux Toolkit</b>, <b>RTK Query</b>, and <b>Node.js</b> for modern digital operations.",
+                            "tags": [
+                                "React.js",
+                                "Next.js",
+                                "Node.js",
+                                "Security"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-chart-line",
+                    "faIconColors": {
+                        "bg": "#0F766E",
+                        "fill": "#F8FAFC"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/abdulzakirkhan",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Modern Analytics Dashboard",
+                            "text": "A polished analytics experience built with <b>React</b>, <b>Tailwind CSS</b>, interactive charts, and <b>REST APIs</b> for data-rich workflows.",
+                            "tags": [
+                                "React",
+                                "Tailwind CSS",
+                                "Charts",
+                                "REST APIs"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_utilities",
+                    "img": "",
+                    "faIcon": "fa-solid fa-microchip",
+                    "faIconColors": {
+                        "bg": "#7C3AED",
+                        "fill": "#F8FAFC"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://github.com/abdulzakirkhan",
+                                "tooltipString": "see_on_github",
+                                "faIcon": "fa-brands fa-github"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "16:9",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Cloud Native Deployment",
+                            "text": "A production-oriented deployment solution using <b>Docker</b>, <b>Kubernetes</b>, and <b>CI/CD</b> to streamline delivery and scalability.",
+                            "tags": [
+                                "Docker",
+                                "Kubernetes",
+                                "CI/CD"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

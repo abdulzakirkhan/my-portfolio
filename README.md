@@ -64,7 +64,7 @@ npm run dev
 
 This template was created by and is maintained by **[Abdul Zakir](https://abdulzakirkhan.com/)**.
 
-It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
+It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by ABdul Zakir.
 
 Additional frameworks and plugins used include:
 - **Smooth Scrollbar**: A customizable scrollbar plugin.
