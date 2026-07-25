@@ -39,8 +39,8 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "",
-                    "faIcon": "fa-solid fa-laptop-code",
+                    "img": "/images/pictures/Repla-technologies.jpg",
+                    "faIcon": "",
                     "faIconColors": {
                         "bg": "#111827",
                         "fill": "#F9FAFB"
@@ -76,8 +76,8 @@
                 },
                 {
                     "id": 2,
-                    "img": "",
-                    "faIcon": "fa-solid fa-building",
+                    "img": "/images/pictures/egeekgs-global.jpg",
+                    "faIcon": "",
                     "faIconColors": {
                         "bg": "#1D4ED8",
                         "fill": "#F9FAFB"
@@ -114,8 +114,8 @@
                 },
                 {
                     "id": 3,
-                    "img": "",
-                    "faIcon": "fa-solid fa-server",
+                    "img": "/images/pictures/egeekgs-global.jpg",
+                    "faIcon": "",
                     "faIconColors": {
                         "bg": "#0F766E",
                         "fill": "#F9FAFB"
@@ -145,6 +145,52 @@
                                 "Node.js",
                                 "Express.js",
                                 "Supabase",
+                                "CI/CD"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "/images/pictures/fbm-solutions.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "#0F766E",
+                        "fill": "#F9FAFB"
+                    },
+                    "dateStart": {
+                        "year": 2025,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "now": true
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "province": "Islamabad",
+                            "country": "Pakistan",
+                            "institution": "FBM Solutions",
+                            "text": "Architected and developed full-stack microservices-based systems for HR management, ERP, and pipeline automation platforms with 5+ microservices, handling both frontend and backend development.",
+                            "list": [
+                                "Designed and built 5+ microservices using Node.js and Express.js",
+                                "Developed responsive frontend interfaces with React.js and Next.js",
+                                "Built HR system, ERP system, and pipeline automation with complex business logic",
+                                "Managed state and API integrations on frontend with modern tooling",
+                                "Implemented authentication, authorization, and API endpoints",
+                                "Worked with database integrations and data management",
+                                "Collaborated on deployment and CI/CD pipelines"
+                            ],
+                            "tags": [
+                                "React.js",
+                                "Next.js",
+                                "Node.js",
+                                "Express.js",
+                                "Microservices",
+                                "Full Stack",
+                                "HR System",
+                                "ERP System",
+                                "Pipeline",
                                 "CI/CD"
                             ]
                         }
