@@ -39,8 +39,8 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "",
-                    "faIcon": "fa-solid fa-school",
+                    "img": "images/pictures/gdc.jpg",
+                    "faIcon": "",
                     "faIconColors": {
                         "bg": "#1F2937",
                         "fill": "#F9FAFB"
@@ -69,8 +69,8 @@
                 },
                 {
                     "id": 2,
-                    "img": "",
-                    "faIcon": "fa-solid fa-graduation-cap",
+                    "img": "images/pictures/uob.jpg",
+                    "faIcon": "",
                     "faIconColors": {
                         "bg": "#2563EB",
                         "fill": "#F9FAFB"
